@@ -1,0 +1,13 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.searchContent {
+  margin: 0px;
+}
+
+.imageicon {
+  height: 20px;
+}
